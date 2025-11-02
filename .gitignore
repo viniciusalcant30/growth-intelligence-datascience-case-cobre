@@ -210,3 +210,4 @@ __marimo__/
 #.csv files
 *.csv
 *.png
+*.pdf
